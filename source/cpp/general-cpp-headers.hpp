@@ -5,6 +5,7 @@
 #include <array>                // std::(array)
 #include <atomic>               // - atomic operations support for threading
 #include <chrono>               // std::chrono::*
+#include <charconv>             // std::from_chars
 #include <condition_variable>   // std::condition_variable
 #include <deque>                // std::deque (e.g. default container for std::stack)
 #include <functional>           // std::(function)
